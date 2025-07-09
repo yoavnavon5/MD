@@ -1,2 +1,5 @@
 # MD
-Jupyter notebook files for analyzing the all-atom molecular dynamics (MD) simulations.
+Four Jupyter notebook (.ipynb) files for analyzing the all-atom molecular dynamics (MD) simulations: one for producing the interaction energy plots and histograms, in addition to to the residence time plots (maximal residence times, total residence times, maximal vs. total residence times) and mean interaction energies; second for analysis of the interaction between a peptide of interest and the three DNA groups (bases, sugars and phosphates); third for esacpe time analysis - what are the probability of an unanchored polyVal peptide to retain the DNA minor groove proximity and its average distance from the groove; and fourth for Umbrella Sampling/Potential of Mean Force analyses for energy landscape mapping.
+
+IMPORTANT NOTE: THE DATA PATHS SPECIFIED IN THE .IPYNB FILES ARE NOT PROVIDED DUE TO THEIR ENORMOUS SIZES AND DUE TO THE FACT THEY WERE EXTRACTED AS PART OF AN ENERGY CALCULATION PROCEDURE AND NOT BY EXPERIMENTAL MEANS.
+IN CASE ONE WOULD LIKE TO ANALYZE THE MD DATA USING THOSE FILES, HE MAY ASK FOR THEM BY EMAIL (yoav.navon@weizmann.ac.il) AND THEY WOULD BE SUPPLIED.
